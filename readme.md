@@ -1,3 +1,5 @@
+It is a command line project created using nodejs and javascript.
+The code take following commands and perform operation on the file.
 # Wcat 🚀🚀 
 
 It is used to display or make a copy content of one or more files in ~~the~~ terminal 
@@ -18,3 +20,4 @@ We can mix and match the options.
 
 1- If file entered is not found then it gives file does not exist error.
 2- -n and -b are 2 options available together then command should give you an ~~error~~
+
